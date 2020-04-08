@@ -1,0 +1,2 @@
+export const SELECT_USER = 'SELECT_USER';
+export const GRANT_PERMISSION = 'GRANT_PERMISSION';

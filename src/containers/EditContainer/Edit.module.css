@@ -1,0 +1,32 @@
+.Main {
+  display: flex;
+}
+
+.EditCard {
+  flex: 1;
+  height: 400px;
+  border: 2px solid blue;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.userAva {
+  background: white;
+  border: 1px solid black;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
+.EditUser {
+  flex: 2;
+  height: 400px;
+  border: 2px solid black;
+}
+
+.EditPermissions {
+  flex: 2;
+  height: 400px;
+  border: 2px solid orange;
+}
